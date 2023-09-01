@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java and Python**
 
-- 👯 I’m looking to collaborate on **Cloud projects** (see here what I have managed to learn and practice on Cloud)
+- 👯 I’m looking to collaborate on **Cloud projects** [(see here what I have managed to learn and practice on Cloud)]()
 
 - 📝 I volunteer to translate articles for [Freecodecamp in Spanish](https://www.freecodecamp.org/espanol/news/ghost/#/site)
 
