@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **[Java](https://github.com/BeatrizBravo/OCA-Java)** and **[Python](https://github.com/BeatrizBravo/python)**
 
 
-- 👯 I’m looking to collaborate on **Cloud projects**    ([check **here** what I have managed to learn and practice on Cloud]())
+- 👯 I’m looking to collaborate on **Cloud projects**    ([check **here** what I have managed to learn and practice on Cloud](https://github.com/BeatrizBravo/BeatrizBravo/blob/main/touching-the-cloud.md))
 
 - 📝 I volunteer to translate articles and texts in Spanish for [**Freecodecamp**](https://www.freecodecamp.org/espanol/news/author/beatriz/)
 
