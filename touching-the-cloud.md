@@ -2,8 +2,7 @@
 # Intro
 Thinking about the intro!
 
-## Potencia y prepara tu portfolio como dev
-
+## Stack
 | Tools  | Visit my repository (_click on the link_) |Description|
 |--|--|--|
 |CI/CD|[GithubAcctions](https://github.com/BeatrizBravo/githubAccion)|101 Translating commits to English|
