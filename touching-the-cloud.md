@@ -12,7 +12,7 @@ Thinking about the intro!
 |<img src="https://img.icons8.com/?size=512&id=WncR8Bcg5nE9&format=png" alt="sqlite" width="40" height="40"/> </a>  and <img src="https://img.icons8.com/?size=512&id=iGCCE2iEmh2u&format=png" alt="sqlite" width="40" height="40"/>|[Terraform and Ansible](https://github.com/BeatrizBravo/terraformEC2-2subnets)| One VPC of AWS with two subnets, an Internet Gateway, a NAT Gateway, and two EC2 instances (one in each subnet). It also creates a security group that allows incoming traffic on port 22 (SSH) to both EC2 instances and generates an Ansible inventory file dynamically using a local_file resource.|
 |<img src="https://avatars.githubusercontent.com/u/28732122?s=200&v=4" alt="LocalStack" width="40" height="40"/>|[LocalStack](https://github.com/BeatrizBravo/Simulating-AWS-in-my-local-machine)| Simulating AWS on my local machine|
 
-
-
+## More
+[Peeling off the cloud with AWS](https://github.com/BeatrizBravo/Devop-B-101/blob/main/M2/week1.md)
 
 
