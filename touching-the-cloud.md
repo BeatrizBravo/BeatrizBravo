@@ -17,5 +17,5 @@ Thinking about the intro!
 
 ## Circleci
 - [Dockerfile with ubuntu image deploy in Dockerhubb (bluid and deploy)](https://github.com/BeatrizBravo/circleci-test)
-- [Dockerfiles with python test (build and test)]([https://github.com/BeatrizBravo/circleci-test](https://github.com/BeatrizBravo/circleci-test-python)https://github.com/BeatrizBravo/circleci-test-python)
+- [Dockerfiles with python test (build and test)](https://github.com/BeatrizBravo/circleci-test](https://github.com/BeatrizBravo/circleci-test-python)https://github.com/BeatrizBravo/circleci-test-python)
 
