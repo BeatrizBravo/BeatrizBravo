@@ -13,7 +13,7 @@ Thinking about the intro!
 |<img src="https://avatars.githubusercontent.com/u/28732122?s=200&v=4" alt="LocalStack" width="40" height="40"/>|[LocalStack](https://github.com/BeatrizBravo/Simulating-AWS-in-my-local-machine)| Simulating AWS on my local machine|
 
 ## More
-[Peeling off the cloud with AWS](https://github.com/BeatrizBravo/Devop-B-101/blob/main/M2/week1.md)
+[Peeling off the cloud with AWS](https://github.com/BeatrizBravo/Devop-B-101/blob/main/M2/Intro.md)
 
 ## Circleci
 - [Dockerfile with ubuntu image deploy in Dockerhubb (bluid and deploy)](https://github.com/BeatrizBravo/circleci-test)
