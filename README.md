@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ISTQB foundation certificacion. 
+- 🔭 I’m currently working on [The Professional Scrum Master™ I (PSM I)](https://github.com/BeatrizBravo/ScrumMaster). 
 - 🌱 I’m currently learning **Java**
 - 👯 I’m looking to collaborate on project 
 - 🤔 I’m looking for help with ...
@@ -16,16 +16,16 @@ Here are some ideas to get you started:
  -->
 
 
-![banner with BB name](https://media.licdn.com/dms/image/D4E16AQF9xe_qj6qxxQ/profile-displaybackgroundimage-shrink_350_1400/0/1692976297043?e=1698883200&v=beta&t=O5fC-0I2BVsCWmEwPrVRIcz5dFUjd2eRK_Uqt-Zc8VY)
+![banner with BB name](resources/banner.png)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
 <h1 align="center">Hi 👋, I'm Beatriz Bravo</h1>
 <h3 align="center">I love seeing how things work, breaking them down and putting them back together to make them better.</h3>
 
-- 🔭 I’m currently working on [**ISTQB** Foundation certification](https://github.com/BeatrizBravo/ISTQBpreparation)
+- 🔭 I’m currently working on [The Professional Scrum Master™ I (**PSM I**)](https://github.com/BeatrizBravo/ScrumMaster).
 
-- 🌱 I’m currently learning **[Java](https://github.com/BeatrizBravo/OCA-Java)** and **[Python](https://github.com/BeatrizBravo/python)**
+- 🌱 I’m currently learning **[C#](https://github.com/BeatrizBravo/cSharp-vademecum)** and **[Python](https://github.com/BeatrizBravo/python)**
 
 
 - 👯 I’m looking to collaborate on **Cloud projects**    ([check **here** what I have managed to learn and practice on Cloud](https://github.com/BeatrizBravo/BeatrizBravo/blob/main/touching-the-cloud.md))
